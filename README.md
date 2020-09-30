@@ -1,4 +1,4 @@
-matt
+MatT
 ====
 
-my personal website
+My Personal Website
